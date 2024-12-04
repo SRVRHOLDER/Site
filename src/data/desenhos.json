@@ -1,0 +1,49 @@
+{
+  "artworks": [
+    {
+      "id": "1",
+      "name": "Apple Jack Roqueira",
+      "imagePath": "src/data/images/desenhos/one.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Rukia",
+      "imagePath": "src/data/images/desenhos/rukia.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Lili",
+      "imagePath": "src/data/images/desenhos/lili.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Nitia",
+      "imagePath": "src/data/images/desenhos/nitia.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Amy",
+      "imagePath": "src/data/images/desenhos/amy.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Alexel & Pandora",
+      "imagePath": "src/data/images/desenhos/alpan.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Naruto",
+      "imagePath": "src/data/images/desenhos/naruto.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Luar",
+      "imagePath": "src/data/images/desenhos/luar.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Santios",
+      "imagePath": "src/data/images/desenhos/santios.jpg"
+    }
+  ]
+}
